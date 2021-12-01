@@ -1,4 +1,4 @@
-# # 👋  Olá, eu sou o Fabio, um  front end em formação.
+# ✌ Olá, eu sou o Fabio, um  front end em formação.
 
 <p align="center">
 <a href="https://www.instagram.com/ofabiojunior__/"><img src="https://img.shields.io/badge/-@ofabiojunior___-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
