@@ -6,7 +6,11 @@
 <a href="mailto:fabioclash2005@gmail.com"><img src="https://img.shields.io/badge/-fabioclash2005@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 <h2> 👨🏻‍💻 &nbsp;Sobre mim </h2>
-- 👨🏻‍💻 &nbsp; Tenho 15 anos, estou cursando o 1°ano do Ensino Médio, atualmente estou me especializando na área de desenvolvedor de software, uma área que eu estudo desde o ano passado e gosto muito, pois me possibilita tirar as ideias do papel e colocar no mundo. Atualmente estou aprendendo HTML5 e CSS3, mas estou aberto para aprender novas tecnologias e aprendizados, também estou me dedicando a aprender inglês, pois pode me possibilitar novas portas ao mundo todo.
+- 👨🏻‍💻 &nbsp; Olá, meu nome é Fábio e tenho 17 anos. Atualmente, estou no 3° ano do Ensino Médio e continuo focado em minha jornada como desenvolvedor de software. Desde o ano passado, venho dedicando meu tempo e paixão a essa área, que me permite dar vida às minhas ideias e compartilhá-las com o mundo.
+
+Minha jornada de aprendizado evoluiu, e além de me especializar em HTML5 e CSS3, agora estou entusiasmado em estudar JavaScript, uma linguagem de programação essencial no desenvolvimento web interativo. Estou empolgado com as possibilidades que o JavaScript pode proporcionar e estou comprometido em aprimorar minhas habilidades nesta linguagem versátil.
+
+Além disso, reconheço a importância do inglês como um diferencial para minha carreira. Continuo me dedicando a aprender o idioma, pois sei que isso abrirá novas portas e me possibilitará conexões com profissionais e oportunidades em todo o mundo.
 <h2> 🛠 &nbsp;Tecnologias</h2>
 <h3>💻 &nbsp;Front-end:</h3>
 <div>
